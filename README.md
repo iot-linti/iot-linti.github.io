@@ -1,1 +1,1 @@
-Only redirect to Wiki for the moment.
+[Wiki](https://github.com/iot-linti/iot-linti.github.io/wiki)
